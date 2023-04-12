@@ -1,7 +1,7 @@
 ## 0x13. JavaScript - Objects, Scopes and Closures
 
 
-**0-rectangle.js:** Writing an empty class Rectangle that defines a rectangle:
+**0-rectangle.js:** When Writing an empty class Rectangle that defines a rectangle:
 You must use the class notation for defining your class.
 
 
